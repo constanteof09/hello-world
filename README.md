@@ -1,5 +1,4 @@
 # hello-world
-Making my first repository. 
 
 Hello fellow homo-sapiens or robots!
 
